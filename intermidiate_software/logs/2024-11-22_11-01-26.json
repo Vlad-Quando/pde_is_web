@@ -1,0 +1,4 @@
+{"type": "SENT", "message": {"time": 1732262488494193152, "packetType": 3, "deviceID": 777784}}
+{"type": "RECIEVED", "message": {"time": 1732262488494193152, "packetType": 18, "deviceID": 192188, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732262488494193152, "packetType": 1, "deviceID": 813558, "deviceType": 0, "deviceLatitude": 0, "deviceLongitude": 0, "deviceAltitude": 0, "signalType": 0, "signalFrequency": 0, "signalAmplitude": 0, "signalWidth": 0, "signalDetectionType": 0, "uav": {"uavType": "", "serialNumber": "", "startUavLatitude": 0, "startUavLongitude": 0, "uavLatitude": 0, "uavLongitude": 0, "uavAltitude": 0, "operatorLatitude": 0, "operatorLongitude": 0}}}
+{"error": "SEND ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}

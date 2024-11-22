@@ -1,0 +1,6 @@
+{"type": "SENT", "message": {"time": 1732261951283326976, "packetType": 2, "deviceID": 425249, "supressMode": 6, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
+{"type": "RECIEVED", "message": {"time": 1732261951283326976, "packetType": 18, "deviceID": 874624, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732261951283326976, "packetType": 4, "deviceID": 839313, "deviceType": 0, "deviceStatus": 0, "supressMode": 0, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
+{"error": "SEND ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}
+{"type": "RECIEVED", "message": {"error": "GET_PACKET - RECIEVING ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}}
+{"type": "RECIEVED", "message": {"error": "GET_PACKET - RECIEVING ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}}

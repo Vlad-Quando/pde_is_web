@@ -1,0 +1,9 @@
+{"type": "SENT", "message": {"time": 1732260673998526208, "packetType": 3, "deviceID": 611880}}
+{"type": "RECIEVED", "message": {"time": 1732260673998526208, "packetType": 18, "deviceID": 905429, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732260673998526208, "packetType": 1, "deviceID": 164879, "deviceType": 0, "deviceLatitude": 0, "deviceLongitude": 0, "deviceAltitude": 0, "signalType": 0, "signalFrequency": 0, "signalAmplitude": 0, "signalWidth": 0, "signalDetectionType": 0, "uav": {"uavType": "", "serialNumber": "", "startUavLatitude": 0, "startUavLongitude": 0, "uavLatitude": 0, "uavLongitude": 0, "uavAltitude": 0, "operatorLatitude": 0, "operatorLongitude": 0}}}
+{"type": "SENT", "message": {"time": 1732260686774147072, "packetType": 2, "deviceID": 700478, "supressMode": 5, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
+{"type": "RECIEVED", "message": {"time": 1732260686775147008, "packetType": 18, "deviceID": 510401, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732260686775147008, "packetType": 4, "deviceID": 954158, "deviceType": 0, "deviceStatus": 0, "supressMode": 0, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
+{"error": "SEND ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}
+{"type": "RECIEVED", "message": {"error": "GET_PACKET - RECIEVING ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}}
+{"type": "RECIEVED", "message": {"error": "GET_PACKET - RECIEVING ERROR: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение"}}

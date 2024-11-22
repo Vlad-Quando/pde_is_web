@@ -1,0 +1,3 @@
+{"type": "SENT", "message": {"time": 1732262454711969024, "packetType": 3, "deviceID": 499993}}
+{"type": "RECIEVED", "message": {"time": 1732262454711969024, "packetType": 18, "deviceID": 338918, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732262454711969024, "packetType": 1, "deviceID": 134042, "deviceType": 0, "deviceLatitude": 0, "deviceLongitude": 0, "deviceAltitude": 0, "signalType": 0, "signalFrequency": 0, "signalAmplitude": 0, "signalWidth": 0, "signalDetectionType": 0, "uav": {"uavType": "", "serialNumber": "", "startUavLatitude": 0, "startUavLongitude": 0, "uavLatitude": 0, "uavLongitude": 0, "uavAltitude": 0, "operatorLatitude": 0, "operatorLongitude": 0}}}

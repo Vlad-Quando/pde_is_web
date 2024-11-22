@@ -1,0 +1,3 @@
+{"type": "SENT", "message": {"time": 1732208120341822976, "packetType": 2, "deviceID": 482997, "supressMode": 1, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
+{"type": "RECIEVED", "message": {"time": 1732208120341822976, "packetType": 18, "deviceID": 392845, "deviceType": 0, "confirmCmdTime": 0, "result": 0}}
+{"type": "RECIEVED", "message": {"time": 1732208120341822976, "packetType": 4, "deviceID": 821336, "deviceType": 0, "deviceStatus": 0, "supressMode": 0, "params": [{"centerFrequency": 0, "receiveSensitivity": 0, "detectionBandwidth": 0, "idents": [{"signalType": "", "signalDetectionType": ""}]}], "additional": ""}}
