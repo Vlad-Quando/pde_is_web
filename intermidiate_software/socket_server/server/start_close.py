@@ -7,13 +7,6 @@ def start(server):
     # Server loop
     while True:
         try:
-            readable, _, _ = select.select([], [], [conn[0] for conn in server.connections], 0)
-            
-            for conn in server.connections:
-                if conn[0] in readable:
-                    print("Connection closed:", conn[1])
-                    server.connections.remove(conn)
-
             connection, address = server.socket.accept() # Establishing a connection
             server.connections.append((connection, address))
             print("Connected to", address, connection)
